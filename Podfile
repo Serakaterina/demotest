@@ -6,6 +6,6 @@ use_frameworks!
 
 pod 'Charts'
 
-pod 'DKLDatePickerView', '~> 1.0.2'
+
 
 end
