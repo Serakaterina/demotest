@@ -27,7 +27,7 @@ struct DKLCalendarConfig {
     static let daySelectTextColor = UIColor.white
     
     /// 日期选择的背景色
-    static let daySelectBackColor = UIColor(red: 204.0/255.0, green: 204.0/255.0, blue: 204.0/255.0, alpha: 1)
+    static let daySelectBackColor = UIColor(red: 7.0/255.0, green: 192.0/255.0, blue: 194.0/255.0, alpha: 1)
     
     /// 日期中间标记字体颜色 默认白色
     static let dayInnerTagTextColor = UIColor.white
